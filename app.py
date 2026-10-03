@@ -14,7 +14,7 @@ st.set_page_config(
 # ==============================
 # TIÊU ĐỀ
 # ==============================
-st.title("💰 APP TÍNH LÃI GỬI TIẾT KIỆM")
+st.title(" CÔNG CỤ TÍNH LÃI GỬI TIẾT KIỆM_Huỳnh Khánh Ly")
 st.write("Nhập thông tin khoản tiền gửi để tính tiền lãi và tổng số tiền nhận được.")
 
 st.divider()
